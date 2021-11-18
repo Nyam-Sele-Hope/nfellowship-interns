@@ -1,0 +1,25 @@
+
+
+
+
+                    Result By highest total score
+RegNo        Quiz1     midTermExams Quiz2        Exams        Total          Position
+ 9876           3            2            5            66            76            1           
+ 2199           8            9            8            34            59            2           
+ 1257           2            3            6            45            56            3           
+ 2376           4            8            4            39            55            4           
+ 3301           5            4            3            17            29            5           
+
+
+
+
+                   Result By Lowest total score
+RegNo        Quiz1       midTermExams Quiz2        Exams        Total          Position
+ 3301           5            4            3            17            29            5           
+ 2376           4            8            4            39            55            4           
+ 1257           2            3            6            45            56            3           
+ 2199           8            9            8            34            59            2           
+ 9876           3            2            5            66            76            1           
+
+
+ the average of the class is: 55.0
